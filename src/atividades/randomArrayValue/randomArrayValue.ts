@@ -57,4 +57,4 @@ function chooseRandomProducts(productList, itensQuantity) {
   return randomProducts;
 }
 
-console.log(chooseRandomProducts(produtos1, 4));
+
